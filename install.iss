@@ -25,6 +25,7 @@ Name: "chinesesimp"; MessagesFile: "compiler:Default.isl"
 [Tasks]
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: checkablealone
 
+
 [Dirs]
 Name: "{app}/apache-tomcat-7.0.54"
 Name: "{app}/jre-7u55"
